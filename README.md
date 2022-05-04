@@ -19,7 +19,14 @@ https://www.amazon.com/Bolsen-Tech-Portable-Electronic-Weighing/dp/B07N5KTQ2L/re
 LCD/(I2C protocol controller) -- 20x4 -- Displays Instructions
 https://www.amazon.com/SunFounder-Serial-Module-Arduino-Mega2560/dp/B01GPUMP9C/ref=sr_1_6?keywords=lcd%2Bscreen%2Bwith%2Bi2c&qid=1649183651&sprefix=lcd%2Bscreen%2Bwith%2B%2Caps%2C109&sr=8-6&th=1
 
-Switch -- 3 way momentary switch -- https://www.amazon.com/IndusTec-Wired-AMP-12V-Reversing/dp/B07TWNBCJM/ref=sr_1_5?crid=3H1CMQXBBORS&keywords=3+way+momentary+switch+arduino&qid=1649186013&sprefix=3+way+momentary+switch+arduino%2Caps%2C63&sr=8-5
+Switch -- 3 way momentary switch 
+https://www.amazon.com/IndusTec-Wired-AMP-12V-Reversing/dp/B07TWNBCJM/ref=sr_1_5?crid=3H1CMQXBBORS&keywords=3+way+momentary+switch+arduino&qid=1649186013&sprefix=3+way+momentary+switch+arduino%2Caps%2C63&sr=8-5
+
+Wing Nuts -- Reinforces the clamps
+Already had in person
+
+String -- Thinner string to maximize accruacY
+Already had in person
 
 3. Software Dependencies: Indicate any libraries or special configuration options that need to be
 installed/configured to run your software. Provide links.

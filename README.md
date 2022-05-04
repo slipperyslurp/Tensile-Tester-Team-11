@@ -25,7 +25,7 @@ https://www.amazon.com/IndusTec-Wired-AMP-12V-Reversing/dp/B07TWNBCJM/ref=sr_1_5
 Wing Nuts -- Reinforces the clamps
 Already had in person
 
-String -- Thinner string to maximize accruacY
+String -- Thinner string to maximize accuracy
 Already had in person
 
 3. Software Dependencies: Indicate any libraries or special configuration options that need to be

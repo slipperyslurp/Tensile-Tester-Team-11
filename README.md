@@ -1,6 +1,6 @@
 # Tensile-Tester-Team-11
 
-1. Repository Contents: Aside from presentation materials and the source code, this repository contains updated design documents and unused code for the stepper motor with gear. Below is the parts list with links as well as special parameters needed to run the code.
+1. Repository Contents: Aside from presentation materials and the source code, this repository contains updated design documents and a model of an unused stepper gear. Below is the parts list with links as well as special parameters needed to run the code.
 
 2. System Parts: 
 

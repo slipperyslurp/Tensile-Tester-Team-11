@@ -22,10 +22,10 @@ https://www.amazon.com/SunFounder-Serial-Module-Arduino-Mega2560/dp/B01GPUMP9C/r
 Switch -- 3 way momentary switch 
 https://www.amazon.com/IndusTec-Wired-AMP-12V-Reversing/dp/B07TWNBCJM/ref=sr_1_5?crid=3H1CMQXBBORS&keywords=3+way+momentary+switch+arduino&qid=1649186013&sprefix=3+way+momentary+switch+arduino%2Caps%2C63&sr=8-5
 
-Wing Nuts -- Reinforces the clamps
+Wing Nuts -- Reinforces the clamps.
 Already had in person
 
-String -- Thinner string to maximize accuracy
+String -- Thinner string to maximize accuracy.
 Already had in person
 
 3. Software Dependencies: Indicate any libraries or special configuration options that need to be

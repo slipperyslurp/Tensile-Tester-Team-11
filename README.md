@@ -28,5 +28,12 @@ Already had in person
 String -- Thinner string to maximize accuracy.
 Already had in person
 
-3. Software Dependencies: Indicate any libraries or special configuration options that need to be
-installed/configured to run your software. Provide links.
+3. Software Dependencies:
+
+Libraries:
+TimedAction - https://playground.arduino.cc/Code/TimedAction/
+LiquidCrystal_I2C-1.1.2 - https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
+HX711-master - https://www.arduino.cc/reference/en/libraries/hx711-arduino-library/
+
+Tools:
+ArduSpreadsheet - https://circuitjournal.com/arduino-serial-to-spreadsheet

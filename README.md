@@ -3,6 +3,7 @@
 1. Repository Contents: Aside from presentation materials and the source code, this repository contains updated design documents and unused code for the stepper motor with gear. Below is the parts list with links as well as special parameters needed to run the code.
 
 2. System Parts: 
+
 Stepper Motor -- 24-48V; 2.8A Motor -- Measures Distance 
 https://www.amazon.com/dp/B00PNEPF5I/?coliid=I3ZDFR4H77MWP&colid=TA2UWTAFEFV6&psc=1&ref_=lv_ov_lig_dp_it
 
